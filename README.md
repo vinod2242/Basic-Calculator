@@ -19,17 +19,9 @@ A simple web-based calculator built using Python Flask, HTML, and CSS.
 
 pip install flask
 
-markdown
-Copy
-Edit
-
 2️⃣ **Run the Flask app**:
 
 python app.py
-
-css
-Copy
-Edit
 
 3️⃣ **Open your browser and go to:**
 
